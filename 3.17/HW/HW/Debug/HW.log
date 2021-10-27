@@ -1,0 +1,3 @@
+﻿  Main.c
+c:\110360253_冼卓軒\3.17\source\main.c(39): warning C4013: 'system' 未定義; 假設 extern 傳回整數
+  HW.vcxproj -> C:\110360253_冼卓軒\3.17\HW\Debug\HW.exe
